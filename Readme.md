@@ -1,7 +1,7 @@
 # SimpleTimeService - DevOps 
 
 # project overview
-- SimpleTimeService is a lightweight web service designed to demonstrate a complete DevOps    workflow using a minimal application.
+- SimpleTimeService is a  web service designed to demonstrate a complete DevOps workflow using a minimal application.
 - The project covers the full lifecycle of an application, from development and containerization to automation and cloud deployment.
 - The application runs as a web server and exposes a REST endpoint.
 - When the root endpoint (/) is accessed, it returns a JSON response containing:
